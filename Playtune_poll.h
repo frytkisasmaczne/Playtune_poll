@@ -13,7 +13,7 @@
 // Next, choose which set of pins in this file you want to use. This should match the processor 
 // chosen in the tools/board menu of the Arduino IDE (Integrated Development Environment).
 
-#define TEENSY_3x       // which set of pin definitions, which are below, to use
+#define ARDUINO_MEGA       // which set of pin definitions, which are below, to use
 
 // Now define the output pin that is wired to the speaker for each channel in the section you chose. 
 // The pin numbers are the "virtual" numbers that typically are printed on the board and are used in 
